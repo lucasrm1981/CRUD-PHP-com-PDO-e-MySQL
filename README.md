@@ -1,3 +1,3 @@
-# crud_pdo
-Um CRUD utilizando PDO PHP Dat Object, criação de base de dados e table no MySQL.
+# CRUD (Crud, Read, Update e Delete) PHP com PDO (PHP Data Object) e MySQL
+Um CRUD utilizando PHP PDO , criação de base de dados e tabela no MySQL.
 Envio de informações por formulários com GET e POST.
