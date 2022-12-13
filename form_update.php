@@ -10,7 +10,7 @@ $id_user = $_GET['id_user'];
     <title>Document</title>
 </head>
 <body>
-    <form action="insert.php" method="post">
+    <form action="update.php" method="post">
         <input name='id_user' value="<?= $id_user?>" readonly>
         Login<input name="login">
         Senha<input type="password" name="senha">
