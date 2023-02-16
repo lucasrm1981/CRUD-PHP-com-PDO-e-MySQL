@@ -11,6 +11,6 @@
 <p>Foi utilizado o try e catch para exibição da exceção dos erros exibidos</p>
 <p>Criação do login e da senha com Criptografia SHA1.</p>
 <p>Atualização de Arquivos com form_update POST</p>
-<p>Deleção de arquivos delet via GET</p>
+<p>Deleção de arquivos delete via GET</p>
 <p>Consulta de arquivos pelo consult</p>
 <p>Botão utilizando a função history.back javascript nativo do html<p/>
